@@ -5,6 +5,7 @@ connection: "thelook"
 include: "/views/**/*.view.lkml"
 
 #test
+#test2
 
 
 # Datagroups define a caching policy for an Explore. To learn more,
